@@ -1,0 +1,1 @@
+file_variable = open(election_results.csv, r)
